@@ -1,0 +1,197 @@
+@font-face {
+    font-family: ubuntu;
+    src: url(Ubuntu-R.ttf);
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #d0cece;
+	font-family: ubuntu;
+}
+
+h2{
+	padding: 10px;
+}
+
+ul{
+	list-style: none;
+}
+
+p{
+	color: #3a3838;
+}
+
+#content{
+	background-color: #0caa00;
+	margin: 0 auto;
+	overflow: auto;
+	position: relative;
+	width: 900px;
+	overflow:auto;
+}
+
+#header{
+	background-color: #3a3838;
+	color: #d0cece;
+	float: left;
+	width: 100%;
+}
+
+#header a{
+	color: #d0cece;
+	text-decoration: none;
+}
+
+#header a:hover{
+	text-decoration: underline;
+}
+
+#banner{
+	font-size: 32;
+	float: left;
+	padding: 40px 50px;
+}
+
+#login{
+	font-size: 12;
+	letter-spacing: 2px;
+	float: right;
+	padding: 40px 50px;
+}
+
+#navigation{
+	background-color: #757070;
+	text-align: center;
+}
+
+#navigation ul{
+	display: block;
+}
+
+#navigation ul li{
+	font-size: 16;
+	display: inline-block;
+	padding: 10px 40px;
+}
+
+#left_content{
+	float: left;
+}
+
+.news_large{
+	background-color: #757070;
+	height: 280px;
+	width: 610px;
+	margin: 20px;
+	padding: 20px;
+	overflow: hidden;
+}
+
+.news_details{
+	position: relative;
+	height: 12.6em;
+	overflow: hidden;
+}
+
+.news_details:after {
+  content: "";
+  text-align: right;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 70%;
+  height: 1.2em;
+  background: linear-gradient(to right, rgba(117, 112, 112, 0), rgba(117, 112, 112, 1) 50%);
+}
+
+#right_content{
+	float: right;
+}
+
+.news_small{
+	background-color: #757070;
+	width: 150px;
+	margin: 20px;
+	margin-left: 0;
+	padding: 20px;
+}
+
+.news_small ul{
+	display: block;
+}
+
+.news_small ul li{
+	padding: 10px;
+}
+
+#register_form{
+	font-family: ubuntu;
+	text-align: center;
+	color: #d0cece;
+	margin:10px auto;
+	width:400px;
+	padding: 5px;
+	background-color: #757070;
+}
+
+.profile_large{
+	background-color: #757070;
+	width: 610px;
+	margin: 20px;
+	padding: 20px;
+	overflow: auto;
+}
+
+.profile_small{
+	background-color: #757070;
+	width: 150px;
+	margin: 20px;
+	margin-left: 0;
+	padding: 20px;
+}
+
+.profile_small ul{
+	display: block;
+}
+
+.profile_small ul li{
+	padding: 10px;
+}
+
+#create_course{
+	font-family: ubuntu;
+	text-align: center;
+	color: #d0cece;
+	margin:10px auto;
+	width:400px;
+	padding: 5px;
+	background-color: #757070;
+	overflow:auto;
+}
+
+#calendar{
+	width: 610px;
+}
+
+#calendar td{
+	width: 80;
+	vertical-align: top;
+	text-align: right;
+	padding: 5px;
+}
+
+#calendar .grey{
+	color: #d0cece;
+}
+
+#assignments{
+	font-family: ubuntu;
+	color: #d0cece;
+	margin: 10px auto;
+	background-color: #757070;
+	width: 50%;
+}

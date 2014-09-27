@@ -1,0 +1,5 @@
+D:\Student Data\Desktop\UHack\Database\MyCourseDatabase\MyCourseDatabase\bin\Debug\MyCourseDatabase.dacpac
+D:\Student Data\Desktop\UHack\Database\MyCourseDatabase\MyCourseDatabase\bin\Debug\MyCourseDatabase.dll
+D:\Student Data\Desktop\UHack\Database\MyCourseDatabase\MyCourseDatabase\bin\Debug\MyCourseDatabase.pdb
+D:\Student Data\Desktop\UHack\Database\MyCourseDatabase\MyCourseDatabase\obj\Debug\MyCourseDatabase.dll
+D:\Student Data\Desktop\UHack\Database\MyCourseDatabase\MyCourseDatabase\obj\Debug\MyCourseDatabase.pdb
